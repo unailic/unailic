@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi, I'm Una 👋
+Final-year student of Information Systems and Technologies at the Faculty of Organizational Sciences, University of Belgrade, specializing in Software Engineering.
 <!--
 **unailic/unailic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
