@@ -1,5 +1,5 @@
 ## Hi, I'm Una 👋
-Final-year Information Systems and Technologies student at the Faculty of Organizational Sciences, University of Belgrade, specializing in Software Engineering.
+Information Systems and Technologies graduate from the Faculty of Organizational Sciences, University of Belgrade, with a specialization in Software Engineering.
 <!--
 **unailic/unailic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
